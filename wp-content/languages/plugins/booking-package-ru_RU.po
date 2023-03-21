@@ -1,0 +1,1608 @@
+# Translation of Plugins - Booking Package &#8211; Appointment Booking Calendar System - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Booking Package &#8211; Appointment Booking Calendar System - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-11 17:49:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Booking Package &#8211; Appointment Booking Calendar System - Stable (latest release)\n"
+
+#: index.php:5744
+msgid "Design"
+msgstr "Оформление"
+
+#: lib/Setting.php:370
+msgid "After the date"
+msgstr "После даты"
+
+#: index.php:5773
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: index.php:5668
+msgid "Customer details"
+msgstr "Информация о клиенте"
+
+#: index.php:5702 lib/Setting.php:86 lib/Setting.php:87 lib/Setting.php:88
+#: lib/Setting.php:89 lib/Setting.php:90 lib/Setting.php:91 lib/Setting.php:92
+msgid "Last %s days"
+msgstr "Последние %s дней"
+
+#: lib/Setting.php:378
+msgid "%d year"
+msgstr "%d год"
+
+#: lib/Setting.php:379 lib/Setting.php:380 lib/Setting.php:381
+#: lib/Setting.php:382
+msgid "%d years"
+msgstr "%d лет"
+
+#: lib/Setting.php:375 lib/Setting.php:376 lib/Setting.php:377
+#: lib/Setting.php:435 lib/Setting.php:436 lib/Setting.php:437
+#: lib/Setting.php:438 lib/Setting.php:439 lib/Setting.php:440
+#: lib/Setting.php:441
+msgid "%d days"
+msgstr "%d дней"
+
+#: index.php:3534 index.php:5732
+msgid "Your email"
+msgstr "Ваш email"
+
+#: index.php:5682
+msgid "Add new item"
+msgstr "Добавить новый элемент"
+
+#: lib/Setting.php:1129
+msgid "About %d hour ago"
+msgstr "Около %d часа назад"
+
+#: lib/Setting.php:1130 lib/Setting.php:1131 lib/Setting.php:1132
+#: lib/Setting.php:1133 lib/Setting.php:1134 lib/Setting.php:1135
+#: lib/Setting.php:1136 lib/Setting.php:1137 lib/Setting.php:1138
+#: lib/Setting.php:1139 lib/Setting.php:1140 lib/Setting.php:1141
+#: lib/Setting.php:1142 lib/Setting.php:1143 lib/Setting.php:1144
+#: lib/Setting.php:1145
+msgid "About %d hours ago"
+msgstr "Около %d часов назад"
+
+#: index.php:2503
+msgid "Format"
+msgstr "Формат"
+
+#: lib/Setting.php:409
+msgid "Account SID"
+msgstr "SID учетной записи"
+
+#: lib/Setting.php:462
+msgid "Size"
+msgstr "Размер"
+
+#: lib/Setting.php:461
+msgid "Theme"
+msgstr "Тема"
+
+#: index.php:5569
+msgid " to "
+msgstr "к"
+
+#: lib/Setting.php:455
+msgid "Version"
+msgstr "Версия"
+
+#: index.php:5683
+msgid "Add Coupon"
+msgstr "Добавить купон"
+
+#: index.php:5684
+msgid "Add Guest"
+msgstr "Добавить гостя"
+
+#: index.php:5566
+msgid "Add a coupon code"
+msgstr "Добавить код купона"
+
+#: index.php:5567
+msgid "Added a coupon"
+msgstr "Добавлен купон"
+
+#: lib/Schedule.php:6016 lib/Schedule.php:6031 lib/Schedule.php:6038
+msgid "%s was not found"
+msgstr "%s не найден"
+
+#: index.php:3250
+msgid "Accept contributors as users"
+msgstr "Принимать участников разработки как пользователей"
+
+#: lib/Setting.php:1248 lib/Setting.php:1252
+msgid "Pages"
+msgstr "Страницы"
+
+#: lib/Setting.php:1248 lib/Setting.php:1263
+msgid "URL"
+msgstr "URL"
+
+#: index.php:5674
+msgid "Add option"
+msgstr "Добавить параметр"
+
+#: index.php:2703
+msgid "Action"
+msgstr "Действие"
+
+#: lib/Setting.php:356
+msgid "Time Format"
+msgstr "Формат времени"
+
+#: index.php:5547
+msgid "%s:%s am"
+msgstr "%s:%s утра"
+
+#: lib/Setting.php:361
+msgid "17:00"
+msgstr "17:00"
+
+#: lib/Setting.php:358
+msgid "09:00 a.m."
+msgstr "09:00 a.m."
+
+#: lib/Setting.php:359
+msgid "09:00 am"
+msgstr "09:00 am"
+
+#: lib/Setting.php:360
+msgid "03:00 PM"
+msgstr "03:00 PM"
+
+#: index.php:968 index.php:980 index.php:992 lib/Schedule.php:10546
+msgid "%s:%s "
+msgstr "%s:%s "
+
+#: index.php:5546
+msgid "%s:%s p.m."
+msgstr "%s:%s вечера"
+
+#: index.php:5545
+msgid "%s:%s a.m."
+msgstr "%s:%s утра"
+
+#: index.php:5596
+msgid "Please create a service."
+msgstr "Пожалуйста, создайте услугу."
+
+#: lib/Setting.php:1228
+msgid "Booking completed page for front-end"
+msgstr "Внешняя страница (front-end) бронирования завершена"
+
+#: lib/Setting.php:1223 lib/Setting.php:1224 lib/Setting.php:1225
+#: lib/Setting.php:1226 lib/Setting.php:1227 lib/Setting.php:1228
+#: lib/Setting.php:1259
+msgid "Add \"booking-package\" to the name and \"front-end\" to the value on the Custom Fields in the Pages."
+msgstr "Добавьте «booking-package» к имени и «front-end» к значению в Пользовательских полях на страницах."
+
+#: index.php:4771 index.php:5544 lib/Schedule.php:8208 lib/Setting.php:2354
+msgid "Select"
+msgstr "Выбор"
+
+#: index.php:5635
+msgid "Add field"
+msgstr "Добавить поле"
+
+#: lib/Setting.php:1628
+msgid "Per one booking for all guests"
+msgstr "За одно бронирование для всех гостей"
+
+#: index.php:5573 lib/Setting.php:907
+msgid "Pay with Stripe"
+msgstr "Оплатить с помощью Stripe"
+
+#: index.php:5780 lib/Schedule.php:11745 lib/Setting.php:907
+msgid "Pay with PayPal"
+msgstr "Оплатить с помощью PayPal"
+
+#: index.php:5572 index.php:5779 lib/Schedule.php:11737
+msgid "Pay with Credit Card"
+msgstr "Оплатить кредитной картой"
+
+#: index.php:5570 index.php:5778
+msgid "I will pay locally"
+msgstr "Я заплачу на месте"
+
+#: index.php:5777
+msgid "Select payment method"
+msgstr "Выберите метод оплаты"
+
+#: index.php:5775
+msgid "Select option"
+msgstr "Выберите опцию"
+
+#: index.php:1082
+msgid "Service"
+msgstr "Услуга"
+
+#: index.php:5776
+msgid "Choose a date"
+msgstr "Выберите дату"
+
+#: index.php:1692
+msgid "Your %s details"
+msgstr "Ваших %s элементов"
+
+#: index.php:1691
+msgid "Please select %s"
+msgstr "Пожалуйста выберите %s"
+
+#: lib/Setting.php:996
+msgid "Start by selecting a service"
+msgstr "Начало с выбора услуги"
+
+#: lib/Setting.php:996
+msgid "Start by selecting a date"
+msgstr "Начало с выбора даты"
+
+#: lib/Setting.php:996
+msgid "Flow of booking procedure on front-end page"
+msgstr "Ход процедуры бронирования на главной странице"
+
+#: index.php:5774
+msgid "You have not selected anything"
+msgstr "Вы ничего не выбрали"
+
+#: index.php:2040 index.php:2134
+msgid "Search"
+msgstr "Поиск"
+
+#: lib/Setting.php:998
+msgid "Selection of multiple services"
+msgstr "Выбор нескольких услуг"
+
+#: lib/Setting.php:1091
+msgid "Display the remaining capacity as a number instead of symbols in the calendar"
+msgstr "Отображение остатка фонда бронирования в виде числа вместо символов в календаре"
+
+#: lib/Setting.php:110
+msgid "Zip"
+msgstr "Почтовый индекс"
+
+#: lib/Setting.php:1755
+msgid "Is Terms of Service or Privacy Policy"
+msgstr "Это Условия обслуживания или Политика конфиденциальности"
+
+#: lib/Setting.php:112
+msgid "I agree"
+msgstr "Я согласен"
+
+#: lib/Setting.php:111
+msgid "Address"
+msgstr "Адрес"
+
+#: lib/Setting.php:109
+msgid "Phone"
+msgstr "Телефон"
+
+#: lib/Setting.php:107
+msgid "Last name"
+msgstr "Фамилия"
+
+#: lib/Setting.php:106
+msgid "First name"
+msgstr "Имя"
+
+#: index.php:5764
+msgid "Book now"
+msgstr "Забронировать"
+
+#: index.php:5587 index.php:5697 lib/Setting.php:859
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+#: index.php:2887 index.php:5541
+msgid "Surcharge and Tax"
+msgstr "Доплата и налог"
+
+#: index.php:2406
+msgid "Surcharge | Tax"
+msgstr "Доплата | Налог"
+
+#: lib/Setting.php:354
+msgid "Default Timezone"
+msgstr "Часовой пояс по умолчанию"
+
+#: index.php:5672 lib/Schedule.php:11099
+msgid "Taxes"
+msgstr "Налоги"
+
+#: index.php:5673 lib/Schedule.php:11088
+msgid "Surcharges"
+msgstr "Доплаты"
+
+#: index.php:5675
+msgid "Add surcharge or tax"
+msgstr "Добавить доплату или налог"
+
+#: index.php:2920
+msgid "Minutes"
+msgstr "Минут"
+
+#: index.php:2908
+msgid "Hours"
+msgstr "Часов"
+
+#: index.php:2903
+msgid "Choose a schedule"
+msgstr "Выберите расписание"
+
+#: lib/Setting.php:1628
+msgid "Range of tax or surcharge"
+msgstr "Диапазон налога или доплаты"
+
+#: lib/Setting.php:1627
+msgid "Target of tax or surcharge"
+msgstr "Цель налога или доплаты"
+
+#: index.php:2859 lib/Html.php:337 lib/Setting.php:825
+msgid "Calendar"
+msgstr "Календарь"
+
+#: index.php:2844 index.php:2970 index.php:5568
+msgid "Apply"
+msgstr "Применить"
+
+#: index.php:2382
+msgid "Create a clone"
+msgstr "Создать копию"
+
+#: lib/Setting.php:1537
+msgid "Selection of multiple options"
+msgstr "Выбор нескольких вариантов"
+
+#: index.php:2732
+msgid "Set up schedules"
+msgstr "Установить расписание"
+
+#: index.php:2823 index.php:5611
+msgid "%s min ago"
+msgstr "%s мин назад"
+
+#: index.php:2811
+msgid "%s minutes"
+msgstr "%s минут"
+
+#: index.php:2806
+msgid "Interval"
+msgstr "Интервал"
+
+#: index.php:3320
+msgid "Change the front-end page design by defining CSS."
+msgstr "Измените дизайн внешней страницы, определив стили CSS."
+
+#: index.php:5607
+msgid "deadline time"
+msgstr "крайний срок"
+
+#: index.php:5605
+msgid "hours"
+msgstr "часов"
+
+#: index.php:5608
+msgid "capacities"
+msgstr "фонд бронирования"
+
+#: lib/Setting.php:1625
+msgid "Tax-exclusive pricing"
+msgstr "Налог не включено в стоимость"
+
+#: lib/Setting.php:1625
+msgid "Tax-inclusive pricing"
+msgstr "Налог включено в стоимость"
+
+#: index.php:4545
+msgid "Get subscription"
+msgstr "Получить подписку"
+
+#: lib/Setting.php:1628
+msgid "Per one booking"
+msgstr "За одно бронирование"
+
+#: lib/Setting.php:1627 lib/Setting.php:1724
+msgid "Per room"
+msgstr "За номер"
+
+#: lib/Setting.php:1628
+msgid "Per day"
+msgstr "За день"
+
+#: lib/Setting.php:1627 lib/Setting.php:1724
+msgid "Per guest"
+msgstr "За одного гостя"
+
+#: index.php:2870 lib/Setting.php:125 lib/Setting.php:220 lib/Setting.php:1317
+#: lib/Setting.php:1356 lib/Setting.php:1724
+msgid "Target"
+msgstr "Цель"
+
+#: lib/Setting.php:304 lib/Setting.php:1626
+msgid "Multiplication"
+msgstr "Увеличение"
+
+#: lib/Setting.php:1626
+msgid "Addition"
+msgstr "Дополнение"
+
+#: lib/Setting.php:304 lib/Setting.php:1626
+msgid "Calculation method"
+msgstr "Метод расчета"
+
+#: index.php:5543 lib/Setting.php:1624 lib/Setting.php:1625
+msgid "Tax"
+msgstr "Налог"
+
+#: index.php:5542 lib/Setting.php:159 lib/Setting.php:1624
+msgid "Surcharge"
+msgstr "Наценка"
+
+#: lib/Setting.php:1107
+msgid "Display details of the canceled visitors and user on the Report & Booking page"
+msgstr "Показать информацию об отмененных посетителях и пользователях на странице «Отчет и бронирование»"
+
+#: index.php:3544
+msgid "Payment a new subscription"
+msgstr "Оплата новой подписки"
+
+#: index.php:3543
+msgid "Cancel this subscription"
+msgstr "Отменить эту подписку"
+
+#: index.php:3541
+msgid "Add a new subscription"
+msgstr "Добавить новую подписку"
+
+#: lib/Setting.php:995
+msgid "Position of preparation time"
+msgstr "Положение времени подготовки"
+
+#: index.php:3515 index.php:3530 lib/Html.php:335 lib/Html.php:379
+msgid "ID"
+msgstr "ИД"
+
+#: lib/Html.php:304 lib/Html.php:334 lib/Html.php:377
+msgid "Cancel this booking"
+msgstr "Отменить это бронирование"
+
+#: lib/Setting.php:1580 lib/Setting.php:1581
+msgid "Valid"
+msgstr "Действительно"
+
+#: lib/Setting.php:1580 lib/Setting.php:1581
+msgid "Invalid"
+msgstr "Недействительно"
+
+#: lib/Setting.php:999
+msgid "Service name"
+msgstr "Наименование услуги"
+
+#: lib/Setting.php:995
+msgid "After booked time"
+msgstr "После забронированного времени"
+
+#: lib/Setting.php:995
+msgid "Before and after booked time"
+msgstr "До и после забронированного времени"
+
+#: lib/Setting.php:995
+msgid "Before booked time"
+msgstr "До забронированного времени"
+
+#: lib/Setting.php:994
+msgid "Preparation time"
+msgstr "Время подготовки"
+
+#: index.php:5538
+msgid "Can we really cancel your booking?"
+msgstr "Можем ли мы отменить ваш заказ?"
+
+#: index.php:3141 index.php:3160 index.php:5670 lib/Setting.php:151
+#: lib/Setting.php:975
+msgid "National holiday"
+msgstr "Национальный праздник"
+
+#: index.php:2403 index.php:2881
+msgid "Subscriptions"
+msgstr "Подписки"
+
+#: lib/Schedule.php:10385
+msgid "The format of the email address is incorrect."
+msgstr "Формат адреса электронной почты неверен."
+
+#: index.php:5771
+msgid "Cancel booking"
+msgstr "Отменить бронирование"
+
+#: index.php:5540
+msgid "Your personal details do not displayed on this page."
+msgstr "Ваши личные данные не отображаются на этой странице."
+
+#: index.php:5514
+msgid "Total amount"
+msgstr "Итого"
+
+#: index.php:5642 lib/Setting.php:1207
+msgid "Pending"
+msgstr "В ожидании"
+
+#: lib/Setting.php:1183 lib/Setting.php:1184 lib/Setting.php:1185
+#: lib/Setting.php:1186 lib/Setting.php:1187 lib/Setting.php:1188
+#: lib/Setting.php:1189 lib/Setting.php:1190 lib/Setting.php:1191
+#: lib/Setting.php:1192 lib/Setting.php:1193 lib/Setting.php:1194
+#: lib/Setting.php:1195
+msgid "%s days ago"
+msgstr "%s дней назад"
+
+#: lib/Setting.php:1182
+msgid "%s day ago"
+msgstr "%s день назад"
+
+#: lib/Setting.php:1178 lib/Setting.php:1179 lib/Setting.php:1180
+#: lib/Setting.php:1181
+msgid "%s hours ago"
+msgstr "%s часов назад"
+
+#: lib/Setting.php:1177
+msgid "%s hour ago"
+msgstr "%s час назад"
+
+#: lib/Setting.php:1176
+msgid "%s minutes ago"
+msgstr "%s минут назад"
+
+#: index.php:5665
+msgid "The \"%s\" is only available to subscribed users."
+msgstr "\"%s\" доступен только подписанным пользователям."
+
+#: index.php:3168 index.php:3188 index.php:3201 index.php:3214 index.php:3227
+#: index.php:3240 index.php:3253 index.php:3279 index.php:3293 index.php:3332
+#: index.php:5531
+msgid "Subscribed users only"
+msgstr "Только подписанные пользователи"
+
+#: index.php:2888
+msgid "Emails"
+msgstr "Письма"
+
+#: lib/Setting.php:392
+msgid "Define \"position: sticky\" for the css (style) in the calendar for visitors"
+msgstr "Определите «position: sticky» в CSS для календаря посетителей"
+
+#: index.php:599 index.php:603
+msgid "Username or password you entered is incorrect."
+msgstr "Неверное имя пользователя или пароль."
+
+#: index.php:2005
+msgid "Decision"
+msgstr "Решение"
+
+#: index.php:1710 index.php:5772
+msgid "Next"
+msgstr "Следующий"
+
+#: lib/Setting.php:863
+msgid "Week Starts On"
+msgstr "Неделя начинается с"
+
+#: index.php:2698
+msgid "The selection of the date can not be done with the free plan."
+msgstr "Выбор даты не может быть сделан в бесплатном плане."
+
+#: index.php:2572
+msgid "Within the specified date"
+msgstr "В течение указанной даты"
+
+#: index.php:2569
+msgid "After the specified date"
+msgstr "После указанной даты"
+
+#: index.php:2566
+msgid "All"
+msgstr "Все"
+
+#: index.php:2563
+msgid "Period"
+msgstr "Период"
+
+#: index.php:2556 index.php:5663
+msgid "Delete schedules"
+msgstr "Удалить расписание"
+
+#: lib/Setting.php:1093 lib/Setting.php:1094 lib/Setting.php:1095
+msgid "You can use the web font of <a href=\"https://material.io/tools/icons/?style=baseline\" target=\"_blank\">Material icons</a>."
+msgstr "Вы можете использовать веб-шрифт <a href=\"https://material.io/tools/icons/?style=baseline\" target=\"_blank\">Material icons</a>."
+
+#: index.php:3237
+msgid "Accept subscribers as users"
+msgstr "Принять подписчиков как пользователей"
+
+#: index.php:2172
+msgid "Subscriber"
+msgstr "Подписчик"
+
+#: lib/Setting.php:1095
+msgid "A phrase or symbol on a day when remaining capacity has 0%"
+msgstr "Фраза или символ для дня, когда остаток фонда бронирования равна 0%"
+
+#: lib/Setting.php:1093
+msgid "A phrase or symbol on a day when the remaining capacity has more than threshold"
+msgstr "Фраза или символ в день, когда остаток фонда бронирования превышает пороговое значение"
+
+#: lib/Setting.php:1094
+msgid "A phrase or symbol on a day when the remaining capacity has less than threshold"
+msgstr "Фраза или символ в день, когда остаток фонда бронирования меньше порога"
+
+#: lib/Setting.php:1092
+msgid "Threshold of remaining capacity"
+msgstr "Порог остатка фонда бронирования"
+
+#: lib/Setting.php:1090
+msgid "Display the remaining capacity as a phrase or symbol in the calendar"
+msgstr "Отображение остатка фонда бронирования в виде фразы или символа в календаре"
+
+#: lib/Setting.php:1567
+msgid "Additional time"
+msgstr "Дополнительное время"
+
+#: index.php:5612 lib/Setting.php:1556
+msgid "%s min"
+msgstr "%s мин"
+
+#: lib/Setting.php:112
+msgid "Terms of Service"
+msgstr "Условия обслуживания"
+
+#: index.php:780 index.php:3512
+msgid "Subscription"
+msgstr "Подписка"
+
+#: index.php:2459 index.php:2818 index.php:2932 index.php:5610
+msgid "Deadline time"
+msgstr "Срок окончания"
+
+#: lib/Setting.php:387
+msgid "Character code of download file"
+msgstr "Тип кодировки загружаемого файла"
+
+#: index.php:5621 lib/Setting.php:123 lib/Setting.php:219 lib/Setting.php:1315
+msgid "Description"
+msgstr "Описание"
+
+#: index.php:4394
+msgid "You are not allowed to access this part of the site"
+msgstr "Вам не разрешен доступ к этой части сайта"
+
+#: index.php:5619
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: index.php:3198
+msgid "Reject non-user account bookings"
+msgstr "Отклонять для незарегистрированных пользователей"
+
+#: index.php:3185
+msgid "User account"
+msgstr "Учетная запись пользователя"
+
+#: index.php:2138
+msgid "Add user"
+msgstr "Добавить пользователя"
+
+#: index.php:1670
+msgid "Sign out"
+msgstr "Выйти"
+
+#: index.php:1669 index.php:5770
+msgid "Sign in"
+msgstr "Войти"
+
+#: index.php:1668
+msgid "Create account"
+msgstr "Создать учётную запись"
+
+#: index.php:689 index.php:766 index.php:3143 index.php:3182
+#: lib/Setting.php:220 lib/Setting.php:1317 lib/Setting.php:1757
+msgid "Users"
+msgstr "Пользователи"
+
+#: lib/Html.php:185
+msgid "Sign up"
+msgstr "Регистрация"
+
+#: lib/Html.php:198
+msgid "Subscribed items"
+msgstr "Подписки"
+
+#: index.php:5593
+msgid "Are you sure you want to delete this booking?"
+msgstr "Вы уверены, что хотите удалить это бронирование?"
+
+#: index.php:5592 index.php:5745
+msgid "Do you send e-mail notifications to customers or administrators?"
+msgstr "Отправлять уведомления по электронной почте клиентам или администраторам?"
+
+#: lib/Setting.php:909
+msgid "Product ID"
+msgstr "Код товара"
+
+#: index.php:5616 index.php:5637 index.php:5733
+msgid "Do you delete the \"%s\"?"
+msgstr "Вы удаляете \"%s\"?"
+
+#: index.php:2234 index.php:5641 lib/Html.php:194 lib/Setting.php:1208
+msgid "Approved"
+msgstr "Одобренный"
+
+#: lib/Schedule.php:117 lib/Schedule.php:283
+msgid "Member related functions are not available"
+msgstr "Связанные дочерние функции недоступны"
+
+#: index.php:3211
+msgid "User registration from visitors"
+msgstr "Регистрация пользователя из посетителя"
+
+#: lib/Schedule.php:752
+msgid "Your email address has not been accepted."
+msgstr "Ваш адрес электронной почты не был принят."
+
+#: index.php:5871
+msgid "Booking Calendar :"
+msgstr "Календарь бронирования:"
+
+#: index.php:2148
+msgid "Registered"
+msgstr "Зарегистрированный"
+
+#: index.php:1646
+msgid "Hello, %s"
+msgstr "Здравствуйте, %s"
+
+#: lib/Schedule.php:267
+msgid "You have already been approved."
+msgstr "Вы уже были одобрены."
+
+#: lib/Schedule.php:233 lib/Schedule.php:246
+msgid "Your information could not be found."
+msgstr "Ваша информация не может быть найдена."
+
+#: index.php:2262 lib/Html.php:196
+msgid "Update Profile"
+msgstr "Обновить профиль"
+
+#: index.php:2242 lib/Html.php:195
+msgid "Change password"
+msgstr "Изменить пароль"
+
+#: lib/Html.php:192
+msgid "Profile"
+msgstr "Профиль"
+
+#: index.php:2148 index.php:2226 index.php:2497 index.php:5747 lib/Html.php:187
+#: lib/Setting.php:108 lib/Setting.php:884 lib/Setting.php:898
+msgid "Email"
+msgstr "Эл. адрес"
+
+#: index.php:2148 index.php:2222 lib/Html.php:186
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: lib/Html.php:184
+msgid "Register For This Site"
+msgstr "Зарегистрироваться на этом сайте"
+
+#: index.php:1671
+msgid "Edit My Profile"
+msgstr "Редактировать мой профиль"
+
+#: lib/Html.php:190
+msgid "Register"
+msgstr "Регистрироваться"
+
+#: lib/Setting.php:448
+msgid "Client ID"
+msgstr "ИД клиента"
+
+#: lib/Setting.php:447
+msgid "Test"
+msgstr "Тест"
+
+#: lib/Setting.php:447
+msgid "Live"
+msgstr "Реальный"
+
+#: lib/Setting.php:447
+msgid "Mode"
+msgstr "Режим"
+
+#: index.php:5532
+msgid "%s remaining"
+msgstr "%s осталось"
+
+#: index.php:5660
+msgid "Fixed calendar"
+msgstr "Фиксированный календарь"
+
+#: lib/Setting.php:385
+msgid "Automatically notify developers"
+msgstr "Автоматически уведомлять разработчиков"
+
+#: lib/Setting.php:385
+msgid "Javascript syntax error notification"
+msgstr "Уведомление об ошибке синтаксиса JavaScript"
+
+#: index.php:5586
+msgid "Download CSV"
+msgstr "Скачать CSV"
+
+#: index.php:1002
+msgid "Until %s"
+msgstr "До %s"
+
+#: index.php:945 index.php:5590
+msgid "No visitors"
+msgstr "Нет посетителей"
+
+#: index.php:5659
+msgid "[%s] is inserting \"%s\""
+msgstr "[%s] помещено \"%s\""
+
+#: lib/Setting.php:1748
+msgid "On"
+msgstr "На"
+
+#: lib/Setting.php:991
+msgid "Arrival & Departure"
+msgstr "Прибытие и Отъезд"
+
+#: lib/Setting.php:991
+msgid "Check-in & Check-out"
+msgstr "Регистрация и Выписка"
+
+#: lib/Setting.php:991
+msgid "Arrival (Check-in) & Departure (Check-out)"
+msgstr "Прибытие (Регистрация) и Отъезд (Выписка)"
+
+#: lib/Setting.php:125
+msgid "Children"
+msgstr "Дети"
+
+#: lib/Setting.php:125
+msgid "Adult"
+msgstr "Взрослые"
+
+#: index.php:5658
+msgid "Accommodation (hotels, campgrounds, etc.)"
+msgstr "Размещение (отели, кемпинги и т. д.)"
+
+#: index.php:5657
+msgid "Booking is completed within 24 hours (hair salon, hospital etc.)"
+msgstr "Бронирование завершено в течение 24 часов (парикмахерская, больница и т. д.)"
+
+#: index.php:5656 lib/Setting.php:158
+msgid "Number of people"
+msgstr "Число людей"
+
+#: index.php:5530
+msgid "Please choose %s"
+msgstr "Пожалуйста, выберите %s"
+
+#: index.php:5529 lib/Schedule.php:8282 lib/Schedule.php:8292
+#: lib/Schedule.php:10947
+msgid "people"
+msgstr "люди"
+
+#: index.php:5528 lib/Schedule.php:8278 lib/Schedule.php:8288
+#: lib/Schedule.php:8303 lib/Schedule.php:8310 lib/Schedule.php:10942
+msgid "person"
+msgstr "человек"
+
+#: index.php:2135 index.php:5527
+msgid "Clear"
+msgstr "Очистить"
+
+#: lib/Setting.php:393
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: index.php:5519 lib/Schedule.php:10821 lib/Schedule.php:10822
+#: lib/Setting.php:989
+msgid "nights"
+msgstr "ночей"
+
+#: index.php:5518 lib/Schedule.php:10832 lib/Schedule.php:10833
+msgid "night"
+msgstr "ночь"
+
+#: index.php:5515
+msgid "Summary"
+msgstr "Суммарно"
+
+#: index.php:5509
+msgid "Check-out"
+msgstr "Выписка"
+
+#: index.php:5508
+msgid "Check-in"
+msgstr "Регистрация"
+
+#: index.php:5507
+msgid "Departure"
+msgstr "Выезд"
+
+#: index.php:5506
+msgid "Arrival"
+msgstr "Пибытие"
+
+#: index.php:5763
+msgid "Your Booking Details"
+msgstr "Ваши данные бронирования"
+
+#: index.php:5511 lib/Schedule.php:10859
+msgid "Total length of stay"
+msgstr "Общая продолжительность пребывания"
+
+#: index.php:5766
+msgid "Booking Completed"
+msgstr "Бронирование завершено"
+
+#: index.php:5525 index.php:5762 lib/Html.php:302
+msgid "Booking details"
+msgstr "Детали бронирования"
+
+#: index.php:5761
+msgid "Please fill in your details"
+msgstr "Пожалуйста, заполните ваши данные"
+
+#: lib/Schedule.php:6401
+msgid "Booking of %s is suspended."
+msgstr "Бронирование %s приостановлено."
+
+#: lib/Schedule.php:6389
+msgid "There is no vacancy in the room on %s"
+msgstr "В комнате нет свободных мест на %s"
+
+#: index.php:5654
+msgid "Include"
+msgstr "Включено"
+
+#: index.php:5653
+msgid "Exclude"
+msgstr "Исключено"
+
+#: index.php:5652
+msgid "Include children in the maximum number of people in the room"
+msgstr "Дети включены в максимальное количество людей в комнате"
+
+#: index.php:5651
+msgid "Maximum number of people staying in one room"
+msgstr "Максимальное количество людей в одной комнате"
+
+#: index.php:5650
+msgid "Cost per night"
+msgstr "Стоимость за ночь"
+
+#: index.php:5513
+msgid "Accommodation fees"
+msgstr "Стоимость размещения"
+
+#: index.php:5512
+msgid "Additional fees"
+msgstr "Дополнительная плата"
+
+#: index.php:5510 lib/Schedule.php:10965
+msgid "Total number of guests"
+msgstr "Общее количество гостей"
+
+#: index.php:5505
+msgid "Departure (Check-out)"
+msgstr "Выезд (выписываться)"
+
+#: index.php:5504
+msgid "Arrival (Check-in)"
+msgstr "Прибытие (регистрироваться)"
+
+#: lib/Setting.php:403
+msgid "Border color"
+msgstr "Цвет границы"
+
+#: lib/Setting.php:402
+msgid "Background color when the pointer overlaps a link"
+msgstr "Цвет фона, когда указатель перекрывает ссылку"
+
+#: lib/Setting.php:401
+msgid "Background color of selected label"
+msgstr "Цвет фона выбранной метки"
+
+#: lib/Setting.php:400
+msgid "Schedule and service background color"
+msgstr "Цвет фона расписания и услуг"
+
+#: lib/Setting.php:397
+msgid "Calendar background color with no schedule"
+msgstr "Цвет фона календаря без расписания"
+
+#: lib/Setting.php:396
+msgid "Calendar background color with schedule"
+msgstr "Цвет фона календаря с расписанием"
+
+#: lib/Setting.php:395
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: lib/Setting.php:370
+msgid "Position of the day of the week"
+msgstr "Положение дня недели"
+
+#: index.php:5649 index.php:5699
+msgid "Number of rooms available"
+msgstr "Количество доступных комнат"
+
+#: index.php:2577 index.php:5648 index.php:5746 lib/Setting.php:366
+#: lib/Setting.php:367
+msgid "Date"
+msgstr "Дата"
+
+#: index.php:2402 index.php:2875
+msgid "Guests"
+msgstr "Гости"
+
+#. Author of the plugin
+msgid "SAASPROJECT Booking Package"
+msgstr "SAASPROJECT Booking Package"
+
+#. Plugin Name of the plugin
+msgid "Booking Package SAASPROJECT"
+msgstr "Booking Package SAASPROJECT"
+
+#: index.php:1368
+msgid "We do not accept reservations for this calendar."
+msgstr "Мы не принимаем резервирование для этого календаря."
+
+#: index.php:5729
+msgid "The Service account must be in JSON format."
+msgstr "Учетная запись службы должна быть в формате JSON."
+
+#: index.php:2230 index.php:5534 index.php:5618 lib/Html.php:193
+#: lib/Html.php:338 lib/Html.php:381
+msgid "Status"
+msgstr "Статус"
+
+#: index.php:5615
+msgid "Accommodation (Hotel)"
+msgstr "Размещение (Гостиница)"
+
+#: index.php:2381
+msgid "Add new calendar"
+msgstr "Добавить новый календарь"
+
+#: index.php:5533
+msgid "An unknown cause of error occurred"
+msgstr "Произошла ошибка по неизвестной причине"
+
+#: index.php:5502 index.php:5503 lib/Html.php:336 lib/Html.php:380
+msgid "Booking Date"
+msgstr "Дата бронирования"
+
+#: index.php:2239 lib/Html.php:188
+msgid "Password"
+msgstr "Пароль"
+
+#: lib/Setting.php:417
+msgid "API Base URL"
+msgstr "URL-адрес API"
+
+#: index.php:5638
+msgid "Disable"
+msgstr "Запретить"
+
+#: lib/Setting.php:322
+msgid "Currency"
+msgstr "Валюта"
+
+#: index.php:5639
+msgid "Enable"
+msgstr "Включить"
+
+#: index.php:5627 lib/Setting.php:122
+msgid "Required"
+msgstr "Обязательно"
+
+#: index.php:5626 index.php:5725 lib/Setting.php:305 lib/Setting.php:1629
+msgid "Value"
+msgstr "Значение"
+
+#: index.php:5620 index.php:5720 lib/Setting.php:121 lib/Setting.php:217
+#: lib/Setting.php:1314 lib/Setting.php:1558 lib/Setting.php:1622
+#: lib/Setting.php:1721
+msgid "Name"
+msgstr "Имя"
+
+#: index.php:5494 lib/Schedule.php:10498 lib/Setting.php:148
+#: lib/Setting.php:863 lib/Setting.php:957
+msgid "Saturday"
+msgstr "Суббота"
+
+#: index.php:5493 lib/Schedule.php:10498 lib/Setting.php:147
+#: lib/Setting.php:863 lib/Setting.php:951
+msgid "Friday"
+msgstr "Пятница"
+
+#: index.php:5491 lib/Schedule.php:10498 lib/Setting.php:145
+#: lib/Setting.php:863 lib/Setting.php:939
+msgid "Wednesday"
+msgstr "Среда"
+
+#: index.php:5490 lib/Schedule.php:10498 lib/Setting.php:144
+#: lib/Setting.php:863 lib/Setting.php:933
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: index.php:5489 lib/Schedule.php:10498 lib/Setting.php:143
+#: lib/Setting.php:863 lib/Setting.php:927
+msgid "Monday"
+msgstr "Понедельник"
+
+#: index.php:2601 index.php:2660 index.php:5474 lib/Schedule.php:10496
+msgid "November"
+msgstr "Ноябрь"
+
+#: index.php:2600 index.php:2659 index.php:5473 lib/Schedule.php:10496
+msgid "October"
+msgstr "Октябрь"
+
+#: index.php:2599 index.php:2658 index.php:5472 lib/Schedule.php:10496
+msgid "September"
+msgstr "Сентябрь"
+
+#: index.php:2598 index.php:2657 index.php:5471 lib/Schedule.php:10496
+msgid "August"
+msgstr "Август"
+
+#: index.php:2597 index.php:2656 index.php:5470 lib/Schedule.php:10496
+msgid "July"
+msgstr "Июль"
+
+#: index.php:2596 index.php:2655 index.php:5469 lib/Schedule.php:10496
+msgid "June"
+msgstr "Июнь"
+
+#: index.php:2595 index.php:2654 index.php:5468 index.php:5480
+#: lib/Schedule.php:10496 lib/Schedule.php:10503 lib/Setting.php:190
+#: lib/Setting.php:1288 lib/Setting.php:1596
+msgid "May"
+msgstr "Май"
+
+#: index.php:2594 index.php:2653 index.php:5467 lib/Schedule.php:10496
+msgid "April"
+msgstr "Апрель"
+
+#: index.php:2592 index.php:2651 index.php:5465 lib/Schedule.php:10496
+msgid "February"
+msgstr "Февраль"
+
+#: index.php:2591 index.php:2650 index.php:5464 lib/Schedule.php:10496
+msgid "January"
+msgstr "Январь"
+
+#: index.php:1966 index.php:5463 index.php:5588
+msgid "Booking"
+msgstr "Бронирование"
+
+#: index.php:5452
+msgid "Change"
+msgstr "Изменить"
+
+#: index.php:5451
+msgid "Edit"
+msgstr "Редактировать"
+
+#: index.php:5448
+msgid "Error"
+msgstr "Ошибка"
+
+#: index.php:898 index.php:1994 index.php:2008 index.php:2282 index.php:3000
+#: index.php:3383 lib/Setting.php:122 lib/Setting.php:1723 lib/Setting.php:1750
+#: lib/Setting.php:1751 lib/Setting.php:1752 lib/Setting.php:1753
+#: lib/Setting.php:1754 lib/Setting.php:1755 lib/Setting.php:1756
+msgid "No"
+msgstr "Нет"
+
+#: index.php:897 index.php:1993 index.php:2007 index.php:2281 index.php:2999
+#: index.php:3382 lib/Setting.php:122 lib/Setting.php:1723 lib/Setting.php:1750
+#: lib/Setting.php:1751 lib/Setting.php:1752 lib/Setting.php:1753
+#: lib/Setting.php:1754 lib/Setting.php:1755 lib/Setting.php:1756
+msgid "Yes"
+msgstr "Да"
+
+#: index.php:894 index.php:1990 index.php:2002 index.php:2278 index.php:2460
+#: index.php:2983 index.php:2996 index.php:3379 index.php:5524
+#: lib/Setting.php:161
+msgid "Title"
+msgstr "Заголовок"
+
+#: index.php:2409 index.php:3139
+msgid "Setting"
+msgstr "Настройки"
+
+#: index.php:2398 index.php:2872 index.php:5698
+msgid "Schedules"
+msgstr "Расписание"
+
+#: index.php:2894
+msgid "Create"
+msgstr "Создать"
+
+#: index.php:2494
+msgid "Enable / Disable"
+msgstr "Включить / Выключить"
+
+#: index.php:5485 lib/Schedule.php:10503 lib/Setting.php:195
+#: lib/Setting.php:1293 lib/Setting.php:1601
+msgid "Oct"
+msgstr "Окт"
+
+#: index.php:5484 lib/Schedule.php:10503 lib/Setting.php:194
+#: lib/Setting.php:1292 lib/Setting.php:1600
+msgid "Sep"
+msgstr "Сен"
+
+#: index.php:5483 lib/Schedule.php:10503 lib/Setting.php:193
+#: lib/Setting.php:1291 lib/Setting.php:1599
+msgid "Aug"
+msgstr "Авг"
+
+#: index.php:5482 lib/Schedule.php:10503 lib/Setting.php:192
+#: lib/Setting.php:1290 lib/Setting.php:1598
+msgid "Jul"
+msgstr "Июл"
+
+#: index.php:5481 lib/Schedule.php:10503 lib/Setting.php:191
+#: lib/Setting.php:1289 lib/Setting.php:1597
+msgid "Jun"
+msgstr "Июн"
+
+#: index.php:5479 lib/Schedule.php:10503 lib/Setting.php:189
+#: lib/Setting.php:1287 lib/Setting.php:1595
+msgid "Apr"
+msgstr "Апр"
+
+#: index.php:5478 lib/Schedule.php:10503 lib/Setting.php:188
+#: lib/Setting.php:1286 lib/Setting.php:1594
+msgid "Mar"
+msgstr "Мар"
+
+#: index.php:5477 lib/Schedule.php:10503 lib/Setting.php:187
+#: lib/Setting.php:1285 lib/Setting.php:1593
+msgid "Feb"
+msgstr "Фев"
+
+#: index.php:5476 lib/Schedule.php:10503 lib/Setting.php:186
+#: lib/Setting.php:1284 lib/Setting.php:1592
+msgid "Jan"
+msgstr "Янв"
+
+#: index.php:5487 lib/Schedule.php:10503 lib/Setting.php:197
+#: lib/Setting.php:1295 lib/Setting.php:1603
+msgid "Dec"
+msgstr "Дек"
+
+#: index.php:5486 lib/Schedule.php:10503 lib/Setting.php:196
+#: lib/Setting.php:1294 lib/Setting.php:1602
+msgid "Nov"
+msgstr "Ноя"
+
+#: index.php:5495 lib/Schedule.php:10504
+msgid "Sun"
+msgstr "Вс"
+
+#: index.php:5501 lib/Schedule.php:10504
+msgid "Sat"
+msgstr "Сб"
+
+#: index.php:5500 lib/Schedule.php:10504
+msgid "Fri"
+msgstr "Пт"
+
+#: index.php:5499 lib/Schedule.php:10504
+msgid "Thu"
+msgstr "Чт"
+
+#: index.php:5498 lib/Schedule.php:10504
+msgid "Wed"
+msgstr "Ср"
+
+#: index.php:5497 lib/Schedule.php:10504
+msgid "Tue"
+msgstr "Вт"
+
+#: index.php:5496 lib/Schedule.php:10504
+msgid "Mon"
+msgstr "Пн"
+
+#: index.php:5594
+msgid "Please upgrade your free plan to enable this feature."
+msgstr "Пожалуйста, обновите ваш бесплатный план, чтобы включить эту функцию."
+
+#: index.php:5591
+msgid "This booking has been paid by credit card. Do you refund the price to the customer?"
+msgstr "Этот заказ был оплачен кредитной картой. Вы возвращаете оплату клиенту?"
+
+#: index.php:5625 index.php:5724
+msgid "Unique ID"
+msgstr "Уникальный ИД"
+
+#: index.php:5634
+msgid "Change ranking"
+msgstr "Изменить расположение"
+
+#: index.php:5734
+msgid "Do you really cancel the subscription?"
+msgstr "Вы действительно хотите отменить подписку?"
+
+#: index.php:3523 index.php:5731 lib/Setting.php:224 lib/Setting.php:1455
+#: lib/Setting.php:1632
+msgid "Expiration date"
+msgstr "Дата окончания срока"
+
+#: index.php:5728
+msgid "Cancellation of booking"
+msgstr "Отмена бронирования"
+
+#: index.php:5662
+msgid "Unavailable days from today"
+msgstr "Недоступные дни с сегодняшнего дня"
+
+#: index.php:5661
+msgid "Public days from today"
+msgstr "Публичные дни с сегодняшнего дня"
+
+#: lib/Setting.php:319 lib/Setting.php:824
+msgid "From (Email Title)"
+msgstr "От кого (заголовок письма)"
+
+#. Description of the plugin
+msgid "Booking Package is a high-performance booking calendar system that anyone can easily use."
+msgstr "Пакет бронирования - это высокопроизводительная система календаря бронирования, которую может легко использовать каждый."
+
+#: lib/Setting.php:418
+msgid "API Key"
+msgstr "API ключ"
+
+#: lib/Setting.php:355
+msgid "Date format"
+msgstr "Формат даты"
+
+#. Author URI of the plugin
+msgid "https://saasproject.net/"
+msgstr "https://saasproject.net/"
+
+#. Plugin URI of the plugin
+msgid "https://saasproject.net/plans/"
+msgstr "https://saasproject.net/plans/"
+
+#: lib/Setting.php:426 lib/Setting.php:449 lib/Setting.php:454
+#: lib/Setting.php:460
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+#: lib/Setting.php:425
+msgid "Public Key"
+msgstr "Открытый ключ"
+
+#: lib/Setting.php:315
+msgid "Site name"
+msgstr "Название сайта"
+
+#: lib/Html.php:303 lib/Html.php:333 lib/Html.php:376
+msgid "Return to calendar"
+msgstr "Вернуться в календарь"
+
+#: index.php:5769
+msgid "Submit Payment"
+msgstr "Отправить платеж"
+
+#: index.php:5767
+msgid "Credit card"
+msgstr "Кредитная карта"
+
+#: index.php:5647 index.php:5742
+msgid "Content"
+msgstr "Содержимое"
+
+#: index.php:5646 index.php:5741
+msgid "Subject"
+msgstr "Тема"
+
+#: index.php:5739
+msgid "Other countries"
+msgstr "Другие страны"
+
+#: index.php:5738
+msgid "Frequently used countries"
+msgstr "Часто используемые страны"
+
+#: index.php:5737
+msgid "Selected country"
+msgstr "Выбранная страна"
+
+#: index.php:5736 lib/Setting.php:321
+msgid "Country"
+msgstr "Страна"
+
+#: index.php:5735 index.php:5743
+msgid "General"
+msgstr "Общее"
+
+#: index.php:5631 index.php:5726 lib/Setting.php:1624
+msgid "Type"
+msgstr "Тип"
+
+#: index.php:5630
+msgid "Is Email"
+msgstr "Это электронная почта"
+
+#: index.php:5629
+msgid "Is a location in Google Calendar"
+msgstr "Местоположение в Календаре Google"
+
+#: index.php:5628
+msgid "Is Name"
+msgstr "Это имя"
+
+#: index.php:5624 index.php:5723 lib/Setting.php:1535
+msgid "Duration time"
+msgstr "Продолжительность"
+
+#: index.php:5460 index.php:5623 index.php:5722
+msgid "Price"
+msgstr "Цена"
+
+#: index.php:5622 index.php:5721 lib/Setting.php:407 lib/Setting.php:416
+#: lib/Setting.php:424 lib/Setting.php:446 lib/Setting.php:452
+#: lib/Setting.php:458 lib/Setting.php:1316 lib/Setting.php:1623
+#: lib/Setting.php:1722
+msgid "Active"
+msgstr "Активно"
+
+#: index.php:5664
+msgid "Refresh token"
+msgstr "Обновить токен"
+
+#: index.php:5633
+msgid "Add service"
+msgstr "Добавить услугу"
+
+#: index.php:5613
+msgid "Choose %s"
+msgstr "Выберите %s"
+
+#: index.php:5604
+msgid "hour"
+msgstr "час"
+
+#: index.php:5606
+msgid "minutes"
+msgstr "минуты"
+
+#: index.php:5595 index.php:5768
+msgid "Service is not registered. "
+msgstr "Услуга не зарегистрирована."
+
+#: index.php:5589
+msgid "No schedules"
+msgstr "Нет расписаний"
+
+#: index.php:5492 lib/Schedule.php:10498 lib/Setting.php:146
+#: lib/Setting.php:863 lib/Setting.php:945
+msgid "Thursday"
+msgstr "Четверг"
+
+#: index.php:5488 lib/Schedule.php:10498 lib/Setting.php:149
+#: lib/Setting.php:863 lib/Setting.php:963
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: index.php:2602 index.php:2661 index.php:5475 lib/Schedule.php:10496
+msgid "December"
+msgstr "Декабрь"
+
+#: index.php:2593 index.php:2652 index.php:5466 lib/Schedule.php:10496
+msgid "March"
+msgstr "Март"
+
+#: index.php:5462 index.php:5655
+msgid "Warning"
+msgstr "Внимание!"
+
+#: index.php:5459
+msgid "Help"
+msgstr "Помощь"
+
+#: index.php:5456
+msgid "Cancel"
+msgstr "Отмена"
+
+#: index.php:1706 index.php:1707 index.php:2392 index.php:5454 lib/Html.php:191
+#: lib/Html.php:382
+msgid "Return"
+msgstr "Возврат"
+
+#: index.php:3174 index.php:5449
+msgid "Add"
+msgstr "Добавить"
+
+#: index.php:3365 index.php:5455
+msgid "Save"
+msgstr "Сохранить"
+
+#: index.php:3147
+msgid "Subscription details"
+msgstr "Подробности подписки"
+
+#: index.php:2408 index.php:3144
+msgid "Sync"
+msgstr "Синхронизация"
+
+#: index.php:2401 index.php:2874
+msgid "Services"
+msgstr "Услуги"
+
+#: index.php:2400 index.php:2873
+msgid "Form fields"
+msgstr "Поля формы"
+
+#: index.php:2987 index.php:5457
+msgid "Close"
+msgstr "Закрыть"
+
+#: index.php:2969 index.php:2986
+msgid "Reset"
+msgstr "Сбросить"
+
+#: index.php:2263 index.php:2464 index.php:2705 index.php:2722 index.php:5450
+#: lib/Html.php:197
+msgid "Delete"
+msgstr "Удалить"
+
+#: index.php:2463 index.php:2706 index.php:5677
+msgid "Stop"
+msgstr "Остановить"
+
+#: index.php:2458 index.php:2739 lib/Setting.php:366 lib/Setting.php:367
+#: lib/Setting.php:1170
+msgid "Time"
+msgstr "Время"
+
+#: index.php:5617
+msgid "Edit schedule"
+msgstr "Изменить расписание"
+
+#: index.php:895 index.php:1991 index.php:2003 index.php:2279 index.php:2997
+#: index.php:3380
+msgid "Message"
+msgstr "Сообщение"
+
+#: index.php:665 index.php:764 index.php:2168
+msgid "Booking Package"
+msgstr "Booking Package"
+
+#: lib/Setting.php:318 lib/Setting.php:823
+msgid "From (Email Address)"
+msgstr "От кого (email-адрес)"
+
+#: lib/Setting.php:316 lib/Setting.php:822
+msgid "To (Email Address)"
+msgstr "Кому (email-адрес)"
+
+#: index.php:2404 index.php:5632 index.php:5727 lib/Setting.php:131
+#: lib/Setting.php:1539
+msgid "Options"
+msgstr "Параметры"
